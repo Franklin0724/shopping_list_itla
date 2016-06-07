@@ -26,5 +26,5 @@ void List::add(Element* element)
 void List::remove(int index)
 {
 	//TODO: Implement this method
-	cout << "You should write the code for removing the index " << index << endl;
+	cout << "You could write the code for removing the index " << index << endl;
 }

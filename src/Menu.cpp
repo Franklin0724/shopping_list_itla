@@ -60,7 +60,7 @@ void Menu::routeAction(int option)
 		removeItems();
 		break;
 	case 4:
-		cout << "Thanks for using our software, good bye!" << endl;
+		cout << "Thanks for using our software!" << endl;
 	}
 	pause();
 }
